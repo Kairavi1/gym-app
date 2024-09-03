@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Hero from './components/hero'
-import Generator from './components/Generator'
-import Workout from './components/Workout'
+import Generator from './components/generator'
+import Workout from './components/workout'
 import { generateWorkout } from './utils/function'
 
 function App() {
